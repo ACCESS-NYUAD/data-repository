@@ -35,8 +35,8 @@
 ## Access and Usage
 - **Data Storage Location:** (physical and/or online location)
 - **Access Restrictions:** (if any)
-- **Recommended Citation:**
-- **License:**
+- **Recommended Citation:** (if applicable)
+- **License:** (if applicable)
 
 ## Additional Notes
 - **Related Publications:** (if applicable)
